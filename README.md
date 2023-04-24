@@ -12,4 +12,4 @@ url: https://dacon.io/competitions/official/235720/overview/description
 
 팀명: 이름뭘로짓냐
 
-순위: public 9위
+순위: public 9위/1,437명 (top 0.6%)
